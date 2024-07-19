@@ -39,6 +39,23 @@ We want to be able to make changes to the website and check that it works before
 
 3. When you're happy with the changes you've made and you want to deploy them then simply git commit to the main branch. GitHub pages then automatically deploys this.
 
+## A note on themes
+
+Something a bit annoying (and there's probably a better way round this). It's to do with GitHub pages.
+
+If you're working on the site locally go into `_config.yml` and ensure that it looks like this:
+
+```
+theme: bulma-clean-theme
+# remote_theme: chrisrhymes/bulma-clean-theme
+```
+
+**VERY IMPORTANT - WHEN YOU GIT COMMIT AND PUSH TO DEPLOY** go into `_config.yml` and ensure that it looks like this:
+
+```
+# theme: bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme
+```
 
 ## Side notes
 
