@@ -1,0 +1,20 @@
+<footer class="footer">
+    <div class="container">
+        {% if site.footer_menu %}
+            <div class="columns is-multiline">
+                {% for item in site.data[site.footer_menu] %}
+                    <div class="column has-text-centered">
+                        <div>
+                            <a href="{{ item.link | relative_url }}" class="link">{{ item.name }}</a>
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+        {% endif %}
+
+        <div class="content is-small has-text-centered">
+            <p class="">Website created by <a href="https://ameliaes.github.io/">Amelia Edmondson-Stait</a> using a Jekyll theme built by <a href="https://www.csrhymes.com">C.S. Rhymes</a>.</p>
+            <p class="">Created under an MIT licence.</p>
+        </div>
+    </div>
+</footer>

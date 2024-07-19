@@ -1,0 +1,10 @@
+- name: Research
+  link: /pages/research
+- name: People
+  link: /pages/people
+- name: Publications
+  link: /pages/publications
+- name: TIDAL
+  link: /pages/tidal
+- name: Contact
+  link: /pages/contact
