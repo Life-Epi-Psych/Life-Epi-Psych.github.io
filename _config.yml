@@ -2,11 +2,11 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 title: LEAP
-email: akwong@exseed.ed.ac.uk
+email: akwong@ed.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://LEAP-Kwong.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: asfkwong
+url: "https://life-epi-psych.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: life_epi_psych
 github_username:  kwongsiufung
 
 # Build settings
@@ -24,5 +24,5 @@ defaults:
     values:
       layout: page
       hero_height: is-small
-      title: "Lifecourse Epidemiological And Psychiatry Research Group"
+      title: "Lifecourse Epidemiology and Psychiatry Research Group (LEAP)"
       

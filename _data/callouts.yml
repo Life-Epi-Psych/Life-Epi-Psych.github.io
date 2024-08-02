@@ -2,19 +2,19 @@ style: is-light
 height: is-medium
 items:
   - title: Twitter
-    subtitle: asfkwong
+    subtitle: life_epi_psych
     icon: fa-twitter
     icon_brand: true
     call_to_action_name: Follow us!
-    call_to_action_link: https://twitter.com/asfkwong
+    call_to_action_link: https://twitter.com/life_epi_psych
   - title: GitHub
     subtitle: "Alex Kwong"
     icon: fa-github
     icon_brand: true
-    call_to_action_name: Collaborate!
+    call_to_action_name: Open source materials
     call_to_action_link: https://github.com/kwongsiufung
-  - title: Find out more
-    subtitle: 'akwong@exseed.ed.ac.uk'
+  - title: Get in touch!
+    subtitle: 'akwong@ed.ac.uk'
     icon: fa-envelope
     call_to_action_name: Edinburgh University Profile
     call_to_action_link: https://www.ed.ac.uk/profile/dr-alex-kwong

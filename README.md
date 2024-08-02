@@ -1,13 +1,13 @@
 # Instructions to update website 
 *written by Amelia for Alex :-)*
 
-**These instructions are for updating the LEAP group website found at [https://leap-kwong.github.io/](https://leap-kwong.github.io/).**
+**These instructions are for updating the LEAP group website found at [https://life-epi-psych.github.io/](https://life-epi-psych.github.io/).**
 
 The website is built using GitHub pages, Jekyll and a theme called Bulma Clean. Don't worry if that means nothing to you - it's actually pretty simple to update now it's all set up! And I'll walk you through how to do that now.
 
 ## Run website locally
 
-We want to be able to make changes to the website and check that it works before deploying it to the world wide web. To do this we want to be able to run the website locally. This is essentially the same view as what you see at https://leap-kwong.github.io/ but instead we are viewing it on our local network by going to http://localhost:4000.
+We want to be able to make changes to the website and check that it works before deploying it to the world wide web. To do this we want to be able to run the website locally. This is essentially the same view as what you see at https://life-epi-psych.github.io/ but instead we are viewing it on our local network by going to http://localhost:4000.
 
 1. Clone this repo to your computer. I think you know how to do this, but if not see some instructions [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
 
@@ -72,5 +72,5 @@ remote_theme: chrisrhymes/bulma-clean-theme
 
 - Pages can be written in markdown, html or a mixture of both. The flavour of markdown used is called kramdown. Please see more info about it [here](https://kramdown.gettalong.org/documentation.html).
 
-- Please be aware that the names of the markdown files and their parent file names are in the site URL path. eg. https://leap-kwong.github.io/people/alex_kwong is for the markdown file save in "people/alex_kwong.md".
+- Please be aware that the names of the markdown files and their parent file names are in the site URL path. eg. https://life-epi-psych.github.io/people/alex_kwong is for the markdown file save in "people/alex_kwong.md".
 
