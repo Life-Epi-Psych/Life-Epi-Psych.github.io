@@ -65,3 +65,6 @@ remote_theme: chrisrhymes/bulma-clean-theme
 
 - Please be aware that the names of the markdown files and their parent file names are in the site URL path. eg. https://leap-kwong.github.io/people/alex_kwong is for the markdown file save in "people/alex_kwong.md".
 
+## Testing
+
+- Alex testing this hi!
