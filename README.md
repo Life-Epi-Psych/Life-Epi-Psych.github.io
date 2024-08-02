@@ -19,7 +19,9 @@ We want to be able to make changes to the website and check that it works before
 
 ## Making changes to the website
 
-1. First let's tell you where everything is and what it does.
+1. **REMEMBER TO GIT PULL BEFORE MAKING ANY CHANGES!!!!** `git pull`
+  
+3. First let's tell you where everything is and what it does.
 
 - [_config.yml](_config.yml) is the configuration file. It's where we can put default values too (to save you putting them on the header of each page). 
 
@@ -38,6 +40,13 @@ We want to be able to make changes to the website and check that it works before
 2. Once you make any changes run `bundle exec jekyll serve` and view the site at http://localhost:4000. 
 
 3. When you're happy with the changes you've made and you want to deploy them then simply git commit to the main branch. GitHub pages then automatically deploys this.
+```
+git add filename.md
+git commit -m "remember to write a git commit message here"
+git push
+```
+
+`git status` is also useful to see what changes have been made and if the file has been "git added", ie. staged.
 
 ## A note on themes
 
