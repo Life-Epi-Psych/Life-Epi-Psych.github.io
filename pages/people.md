@@ -51,7 +51,7 @@ layout: page
   
   <div class="team-row">
     <div class="team-image">
-      <img src="/assets/images/zhuoni" alt="Member 2">
+      <img src="/assets/images/zhuoni.jpg" alt="Member 2">
     </div>
     <div class="team-info">
       <h2>Zhuoni Xiao</h2>
