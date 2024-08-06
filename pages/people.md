@@ -51,6 +51,20 @@ layout: page
   
   <div class="team-row">
     <div class="team-image">
+      <img src="/assets/images/zhuoni" alt="Member 2">
+    </div>
+    <div class="team-info">
+      <h2>Zhuoni Xiao</h2>
+      <h5>Postdoctoral Research Fellow</h5>
+      <p><a href="/people/zhuoni_xiao" class="fas fa-info-circle fa-2x has-text-dark" ></a>&nbsp;&nbsp;
+      	<a href="https://x.com/ZhuoniX" class="fab fa-twitter fa-2x has-text-dark" ></a>&nbsp;&nbsp;
+      	<a href="https://www.ed.ac.uk/profile/zhuoni-xiao" class="fas fa-globe fa-2x has-text-dark"></a>
+      </p>
+    </div>
+  </div>
+
+  <div class="team-row">
+    <div class="team-image">
       <img src="/assets/images/eileen.jpg" alt="Member 2">
     </div>
     <div class="team-info">
