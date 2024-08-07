@@ -31,6 +31,8 @@ We want to be able to make changes to the website and check that it works before
 
 - [_data/navigation.yml](_data/navigation.yml) gives the layout and order of those pages in the top navigation bar.
 
+- [_posts](_posts/) contains markdown files of all the posts that appear in the [News](pages/news.md) tab. **Important to use the correct syntax for naming files in this folder. "YYYY-MM-DD-name-here.md"**
+
 - [people/](people/) contains a markdown file for each person. In the "People" page when the "i" icon is clicked on next to each person it will navigate to the page on that person saved in the "people/" folder. Eg. I made one for you called "alex_kwong.md". 
 
 - [assets/images/](assets/images/) is where I've saved any images you want to display.

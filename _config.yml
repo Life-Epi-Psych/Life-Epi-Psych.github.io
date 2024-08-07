@@ -25,4 +25,9 @@ defaults:
       layout: page
       hero_height: is-small
       title: "Lifecourse Epidemiology and Psychiatry Research Group (LEAP)"
-      
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      hero_height: is-small
