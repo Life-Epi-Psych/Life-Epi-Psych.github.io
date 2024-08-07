@@ -29,9 +29,8 @@ layout: page
       <h2>Amelia Edmondson-Stait</h2>
       <h5>Postdoctoral Research Fellow</h5>
       <p><a href="/people/amelia_edmondson-stait" class="fas fa-info-circle fa-2x has-text-dark" ></a>&nbsp;&nbsp;
-      	<a href="https://twitter.com/ameliaedst" class="fab fa-twitter fa-2x has-text-dark" ></a>&nbsp;&nbsp;
       	<a href="https://github.com/AmeliaES" class="fab fa-github fa-2x has-text-dark" > </a>&nbsp;&nbsp;
-      	<a href="https://www.ed.ac.uk/profile/amelia-edmondson-stait" class="fas fa-globe fa-2x has-text-dark"></a>
+      	<a href="https://ameliaes.github.io/" class="fas fa-globe fa-2x has-text-dark"></a>
       </p>
     </div>
   </div>
