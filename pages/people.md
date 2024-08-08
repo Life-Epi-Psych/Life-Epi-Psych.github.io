@@ -16,7 +16,8 @@ layout: page
       	<a href="https://twitter.com/asfkwong" class="fab fa-twitter fa-2x has-text-dark" ></a>&nbsp;&nbsp;
       	<a href="https://github.com/kwongsiufung" class="fab fa-github fa-2x has-text-dark" > </a>&nbsp;&nbsp;
       	<a href="https://scholar.google.com/citations?user=F-sGJEIAAAAJ&hl=en" class="fas fa-book fa-2x has-text-dark" ></a>&nbsp;&nbsp;
-      	<a href="https://www.ed.ac.uk/profile/dr-alex-kwong" class="fas fa-globe fa-2x has-text-dark"></a>
+      	<a href="https://www.ed.ac.uk/profile/dr-alex-kwong" class="fas fa-globe fa-2x has-text-dark"></a>&nbsp;&nbsp;
+        <a href="/assets/images/docs/AlexKwongCV_August24.pdf" class="fab fa-wpforms fa-2x has-text-dark"></a>
       </p>
     </div>
   </div>
