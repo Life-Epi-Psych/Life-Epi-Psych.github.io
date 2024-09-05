@@ -14,4 +14,4 @@ We are also interested in methods development to better facilitate access to lon
 
 We are always looking to expand so if you're interested in joining our group as an intern, MSc student, PhD student or Postdoc, or collaborating with us, then please feel free to reach out through the Contact tab.  
 
-Our group is mainly funded by Wellcome, but we also receive funding the Medical Research Council. 
+Our group is mainly funded by Wellcome, but we also receive funding from the Medical Research Council and the Economic Social Research Council in the past. 

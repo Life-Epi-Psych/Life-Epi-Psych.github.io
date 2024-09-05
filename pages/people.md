@@ -38,6 +38,21 @@ layout: page
 
   <div class="team-row">
     <div class="team-image">
+      <img src="/assets/images/esme.jpeg" alt="Member 2">
+    </div>
+    <div class="team-info">
+      <h2>Esme Elsden</h2>
+      <h5>Postdoctoral Research Fellow</h5>
+      <p><a href="/people/esme_elden" class="fas fa-info-circle fa-2x has-text-dark" ></a>&nbsp;&nbsp;
+      	<a href="https://twitter.com/ElsdenEsme" class="fab fa-twitter fa-2x has-text-dark" ></a>&nbsp;&nbsp;
+      	<a href="Google Scholar: https://scholar.google.com/citations?user=7yTXEZoAAAAJ&hl=en" class="fas fa-book fa-2x has-text-dark" ></a>&nbsp;&nbsp;
+      	<a href="https://profiles.ucl.ac.uk/78977-esme-elsden" class="fas fa-globe fa-2x has-text-dark"></a>
+      </p>
+    </div>
+  </div>
+
+  <div class="team-row">
+    <div class="team-image">
       <img src="/assets/images/sally.jpg" alt="Member 2">
     </div>
     <div class="team-info">
@@ -100,6 +115,18 @@ layout: page
       <h5>PhD Student</h5>
       <p><a href="/people/reesha_zahir" class="fas fa-info-circle fa-2x has-text-dark" ></a>&nbsp;&nbsp;
       	<a href="https://x.com/reeshazahir" class="fab fa-twitter fa-2x has-text-dark" ></a>&nbsp;&nbsp;
+      </p>
+    </div>
+  </div>
+
+  <div class="team-row">
+    <div class="team-image">
+      <img src="/assets/images/sam.jpeg" alt="Member 2">
+    </div>
+    <div class="team-info">
+      <h2>Sam Bentwood</h2>
+      <h5>PhD Student</h5>
+      <p><a href="/people/sam_bentwood" class="fas fa-info-circle fa-2x has-text-dark" ></a>&nbsp;&nbsp;
       </p>
     </div>
   </div>

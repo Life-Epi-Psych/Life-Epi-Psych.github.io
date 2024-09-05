@@ -28,7 +28,7 @@ We are keen to develop methods that facilitate access, analysis and interpretati
 
 <b>Key work:</b>
 
-[TIDAL](https://tidal-modelling.github.io/). Manuscript currently under review.
+Kwong, Edmondson-Stait, Xu et al., (under review). TIDAL – Tool to Implement Developmental Analysis of Longitudinal data. [Preprint](https://www.medrxiv.org/content/10.1101/2024.08.12.24311854v1)
 
 Kwong et al., (2019). Identifying Critical Points of Trajectories of Depressive Symptoms from Childhood to Young Adulthood. <i>Journal of Youth and Adolescence.</I> [Manuscript](https://link.springer.com/article/10.1007/s10964-018-0976-5)
 
